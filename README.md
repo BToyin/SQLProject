@@ -6,4 +6,4 @@
 - Create a Spartans table 
 - Carry out Northwin data analysis linked to Excel
 
-See [SQL Project](https://github.com/BToyin/SQLProject/blob/main/SQL_Project.pdf) here. 
+Find completed [SQL Project](https://github.com/BToyin/SQLProject/blob/main/SQL_Project.pdf) here. 
